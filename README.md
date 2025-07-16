@@ -2,6 +2,10 @@
 
 # ⚙️ AWS Load Balancer Demo — EC2 Target Groups & Sticky Sessions
 
+This repository has been sanitized to remove all sensitive cloud resource identifiers, including login credentials, security group names, public IPs, VPC and subnet IDs, and resource deletion steps. Any environment-specific values presented (such as sample firewall rules or admin logins) have been intentionally generic and are used solely for instructional purposes.
+
+All actions documented in this project follow Microsoft Azure best practices for authentication, access control, and resource protection. Always ensure keys, credentials, and infrastructure metadata are stored securely and never pushed to public repositories.
+
 ## Overview  
 This project demonstrates deploying an **Application Load Balancer (ALB)** in **AWS** to distribute traffic across two EC2 instances in separate availability zones. It includes security group setup, target group configuration with health checks, and an exploration of sticky session behavior — providing hands-on experience with scalable and stateful cloud infrastructure design.
 
