@@ -17,7 +17,7 @@ This project demonstrates deploying an **Application Load Balancer (ALB)** in **
 1. **Launch EC2 Instances**  
    - Deployed `httpserver1` in `us-east-1a` and `httpserver2` in `us-east-1b`  
    - Used `ami-06d5e0de6baf595ca` for both  
-   - Applied shared security group (`tio2-sg`) allowing SSH & HTTP traffic
+   - Applied shared security group (`xxx-sg`) allowing SSH & HTTP traffic
 
 2. **Create Target Group (`web-tg`)**  
    - Set target type: Instances  
