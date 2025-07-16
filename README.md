@@ -1,7 +1,5 @@
 # aws-ec2-load-balancer-lab
 
-# 🌐 High-Availability Web Server Deployment on AWS with ALB
-
 # ⚙️ AWS Load Balancer Demo — EC2 Target Groups & Sticky Sessions
 
 ## Overview  
